@@ -1,3 +1,3 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
 
 jekyll serve --baseurl: https://lshim98.github.io/Scheduler.github.io/
