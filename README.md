@@ -9,9 +9,9 @@ You'll need to use the [Moment.js](https://momentjs.com/) library to work with d
 ## User Story
 
 ```md
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+AS AN employee with an everchanging schedule
+I WANT to add important appointments and dates to a daily planner
+SO THAT I can manage my time more effectively rather through memory
 ```
 
 ## Acceptance Criteria
