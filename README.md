@@ -17,6 +17,7 @@ SO THAT I can manage my time more effectively rather through memory
 Baseurl: https://lshim98.github.io/Scheduler.github.io/
 
 Screenshot:
+![Captured 1](https://user-images.githubusercontent.com/76062539/109372274-b0a4da80-7876-11eb-983a-f9207f29c62e.JPG)
 
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
