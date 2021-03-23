@@ -14,6 +14,7 @@ I WANT to add important appointments and dates to a daily planner
 SO THAT I can manage my time more effectively rather through memory
 ```
 
+## Installation
 Baseurl: https://lshim98.github.io/Scheduler.github.io/
 
 Screenshot:
